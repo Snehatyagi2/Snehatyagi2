@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sneha<br>Building skills today to solve real problems tomorrow<br><br>I’m a first-year Computer Science Engineering student who got curious about how data drives decisions and that curiosity pulled me into the world of Data Analytics and AI/ML.<br><br>Right now, I’m focused on learning the fundamentals, building projects from scratch, and understanding how things actually work under the hood. I’m not an expert (yet), but I show up every day to improve and that consistency is my biggest strength.
+👋 Hi, I'm Sneha<br>Building skills today to solve real problems tomorrow<br><br>I’m a second-year Computer Science Engineering student who got curious about how data drives decisions and that curiosity pulled me into the world of Data Analytics and AI/ML.<br><br>Right now, I’m focused on learning the fundamentals, building projects from scratch, and understanding how things actually work under the hood. I’m not an expert (yet), but I show up every day to improve and that consistency is my biggest strength.
 
 
 ## 🌐 Socials:
